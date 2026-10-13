@@ -1,0 +1,28 @@
+INITIAL_LOCALIZATION {"xy_difference_m": 0.05238014936858681, "yaw_difference_rad": 0.0340688609481943}
+GOAL 1 START: x=-2.0, y=-3.0, yaw=0.000
+GOAL 1: distance remaining 0.00 m
+GOAL 1: distance remaining 3.00 m
+GOAL 1: distance remaining 2.25 m
+GOAL 1: distance remaining 1.35 m
+GOAL 1: distance remaining 0.47 m
+GOAL 1: distance remaining 0.20 m
+{"target": [-2.0, -3.0, 0.0], "accepted": true, "status": 4, "elapsed_wall_s": 52.355, "final_map_pose": [-1.9786246900289857, -2.8115324856697046, -0.24735781937293397], "xy_error_m": 0.18967579664837855, "yaw_error_rad": 0.24735781937293397, "gazebo_position": [-2.0444679065130793, -2.8584839493738197], "amcl_gazebo_xy_difference_m": 0.08086883887462497}
+GOAL 2 START: x=2.0, y=-3.0, yaw=0.000
+GOAL 2: distance remaining 0.20 m
+GOAL 2: distance remaining 3.72 m
+GOAL 2: distance remaining 2.50 m
+GOAL 2: distance remaining 1.17 m
+GOAL 2: distance remaining 0.22 m
+{"target": [2.0, -3.0, 0.0], "accepted": true, "status": 4, "elapsed_wall_s": 45.022, "final_map_pose": [1.8358591444513712, -3.163701978402007, 0.2457649747132961], "xy_error_m": 0.23182009876834883, "yaw_error_rad": 0.24576497471329609, "gazebo_position": [1.8597323585806782, -3.164036594087218], "amcl_gazebo_xy_difference_m": 0.023875559061947257}
+GOAL 3 START: x=-2.0, y=4.0, yaw=1.571
+GOAL 3: distance remaining 0.21 m
+GOAL 3: distance remaining 8.02 m
+GOAL 3: distance remaining 7.22 m
+GOAL 3: distance remaining 6.27 m
+GOAL 3: distance remaining 5.30 m
+GOAL 3: distance remaining 4.07 m
+GOAL 3: distance remaining 2.97 m
+GOAL 3: distance remaining 1.95 m
+GOAL 3: distance remaining 1.02 m
+GOAL 3: distance remaining 0.23 m
+{"target": [-2.0, 4.0, 1.5707963267948966], "accepted": true, "status": 4, "elapsed_wall_s": 90.693, "final_map_pose": [-1.9135507651137682, 3.7767963680959222, 1.8181277599880334], "xy_error_m": 0.23936025465307711, "yaw_error_rad": 0.24733143319313688, "gazebo_position": [-1.9677736273103612, 3.797668151634885], "amcl_gazebo_xy_difference_m": 0.05810120595037618}

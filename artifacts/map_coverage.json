@@ -1,0 +1,16 @@
+{
+  "map": "src/turtlebot4_slam_nav/maps/map.yaml",
+  "pixels": [
+    401,
+    401
+  ],
+  "resolution_m": 0.05,
+  "origin": [
+    -10,
+    -10,
+    0
+  ],
+  "maze_free_floor_m2": 295.0,
+  "observed_free_floor_percent": 76.8,
+  "assumption": "Default maze, map/world alignment at origin; read-only approximate coverage, not acceptance of wall accuracy."
+}

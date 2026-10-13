@@ -1,0 +1,28 @@
+{
+  "all_three_succeeded": true,
+  "hazard_detection_counts": {
+    "0": 119
+  },
+  "backup_limit_count": 119,
+  "bump_count": 0,
+  "cliff_count": 0,
+  "stall_count": 0,
+  "wheel_drop_count": 0,
+  "ground_truth_samples": 143,
+  "min_sampled_center_to_maze_wall_m": 0.4309960559296911,
+  "initial_localization": {
+    "xy_difference_m": 0.049570985634876226,
+    "yaw_difference_rad": 0.009060246595987476
+  },
+  "goal_map_xy_errors_m": [
+    0.21636060574770358,
+    0.24986129890813122,
+    0.2350767407291291
+  ],
+  "amcl_gazebo_xy_differences_m": [
+    0.06738417069783678,
+    0.02031742175405134,
+    0.056396233684308454
+  ],
+  "method": "Read-only sampled verification against maze boxes; not a continuous collision proof and not RViz Goal video."
+}

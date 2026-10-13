@@ -1,0 +1,18 @@
+{
+  "all_three_succeeded": true,
+  "goal_xy_errors_m": [
+    0.18967579664837855,
+    0.23182009876834883,
+    0.23936025465307711
+  ],
+  "goal_times_wall_s": [
+    52.355,
+    45.022,
+    90.693
+  ],
+  "bump_count": 0,
+  "hazard_detection_counts": {
+    "0": 112
+  },
+  "method": "Live headless Gazebo replay; action goals; no claim of RViz mouse clicks or recorded video."
+}

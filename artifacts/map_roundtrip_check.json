@@ -1,0 +1,8 @@
+{
+  "expected_unknown": 67189,
+  "loaded_unknown": 67189,
+  "loaded_free": 88298,
+  "loaded_occupied": 5314,
+  "free_thresh": 0.196,
+  "result": "PASS"
+}
